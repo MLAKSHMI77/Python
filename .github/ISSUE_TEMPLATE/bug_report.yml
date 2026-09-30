@@ -3,7 +3,6 @@ description: Create a bug report to help us address errors in the repository
 labels: [bug]
 body:
   - type: markdown
-  bug report
     attributes:
       value: >
         Before requesting please search [existing issues](https://github.com/TheAlgorithms/Python/labels/bug).
