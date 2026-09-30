@@ -1,4 +1,5 @@
 # Contributing guidelines
+welcome to last class
 
 ## Before contributing
 
